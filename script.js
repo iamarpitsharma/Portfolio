@@ -8,7 +8,6 @@ document.addEventListener("DOMContentLoaded", () => {
             "React.js Enthusiast",
             // "Web Developer",
             "Frontend Developer",
-            "Freelancer",
             "Coder",
         ],
         loop: true,
@@ -17,6 +16,8 @@ document.addEventListener("DOMContentLoaded", () => {
         backDelay: 1000,
     });
 })
+
+
 
 // const formSubmit = document.querySelector("#submit-btn");
 // formSubmit.addEventListener('click', () => {
